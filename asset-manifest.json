@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.33ff2d2d.css",
-    "main.js": "/your-repo-name/static/js/main.4e230fc7.js",
-    "static/js/453.a53b11f0.chunk.js": "/your-repo-name/static/js/453.a53b11f0.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.33ff2d2d.css.map": "/your-repo-name/static/css/main.33ff2d2d.css.map",
-    "main.4e230fc7.js.map": "/your-repo-name/static/js/main.4e230fc7.js.map",
-    "453.a53b11f0.chunk.js.map": "/your-repo-name/static/js/453.a53b11f0.chunk.js.map"
+    "main.css": "/Task-Management/static/css/main.33ff2d2d.css",
+    "main.js": "/Task-Management/static/js/main.5b36fe89.js",
+    "static/js/453.a53b11f0.chunk.js": "/Task-Management/static/js/453.a53b11f0.chunk.js",
+    "index.html": "/Task-Management/index.html",
+    "main.33ff2d2d.css.map": "/Task-Management/static/css/main.33ff2d2d.css.map",
+    "main.5b36fe89.js.map": "/Task-Management/static/js/main.5b36fe89.js.map",
+    "453.a53b11f0.chunk.js.map": "/Task-Management/static/js/453.a53b11f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33ff2d2d.css",
-    "static/js/main.4e230fc7.js"
+    "static/js/main.5b36fe89.js"
   ]
 }
