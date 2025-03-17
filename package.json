@@ -2,7 +2,7 @@
   "name": "task-manager",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://shushma21.github.io/Task-Management",
+"homepage": "https://shushma21.github.io/Task-Management/",
   "dependencies": {
     "@dnd-kit/accessibility": "^3.1.1",
     "@dnd-kit/core": "^6.3.1",
